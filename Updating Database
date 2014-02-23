@@ -1,0 +1,22 @@
+First of all, before doing any contributions, one must understand the whole code. It's Easy and fun.
+After that, one can edit it easily by maybe adding new functions to it and then pulling requests, or else, they can simply increase its Database!
+
+
+TO UPDATE DATABASE (For Non-Programmers):
+(1) In the M1.C file, one may search for code snippet inlcuding lots of if(search------(so and so) else------
+statements, right there after 'else', press spacebar and follow below steps(explained with an example)
+
+   (1) TO REPLY "Hello Sir" when user enters, "hi" :
+        
+        
+        if(search(input,"hi")==1
+        {printf("\nHello Sir!");
+        goto jump;}
+        else
+   
+   
+   (2) TO REPLY "Tata Sir" when user enters, "bye":
+      if(search(input,"bye")==1
+      {printf("\nTata Sir!");
+      goto jump;}
+      else
