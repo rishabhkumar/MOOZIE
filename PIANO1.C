@@ -185,6 +185,6 @@ getch();
 }
 
 
-void main()
+void piano()
 {password();
 }
